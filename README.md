@@ -20,7 +20,9 @@ Projeyi yerel ortamınızda veya VDS üzerinde çalıştırmak için şu adımla
    ```
 
 2. **ENV dosyası oluşturun:**
-    .env dosyası oluşturun > PORT=PORT_NUMARANIZ
+    ```bash
+    PORT=PORT_NUMARANIZ
+    ```
 
 3. **Bağımlılıkları yükleyin:**
     ```bash
