@@ -17,3 +17,12 @@ Projeyi yerel ortamınızda veya VDS üzerinde çalıştırmak için şu adımla
    ```bash
    git clone https://github.com/Egecsoft/Egecbot-Api.git
    cd Egecbot-Api
+   ```
+
+2. **ENV dosyası oluşturun:**
+.env dosyası oluşturun > PORT=PORT_NUMARANIZ
+
+3. **Projeyi başlatın:**
+    ```bash
+    npm start
+    ```
