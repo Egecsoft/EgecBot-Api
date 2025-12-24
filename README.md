@@ -22,7 +22,12 @@ Projeyi yerel ortamınızda veya VDS üzerinde çalıştırmak için şu adımla
 2. **ENV dosyası oluşturun:**
 .env dosyası oluşturun > PORT=PORT_NUMARANIZ
 
-3. **Projeyi başlatın:**
+3. **Bağımlılıkları yükleyin:**
+    ```bash
+    npm install
+    ```
+
+4. **Projeyi başlatın:**
     ```bash
     npm start
     ```
