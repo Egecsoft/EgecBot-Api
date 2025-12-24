@@ -1,6 +1,6 @@
-# 🚀 Egecbot-api
+# 🚀 Egecbot-Api
 
-Egecbot-api, 590+ sunucuda aktif olarak hizmet veren EgecBot'un gücünü aldığı resmi API projesidir. Bu proje, Discord botları için gelişmiş işlevler ve veri yönetimi sağlamak amacıyla geliştirilmiştir.
+Egecbot-Api, 590+ sunucuda aktif olarak hizmet veren EgecBot'un gücünü aldığı resmi API projesidir. Bu proje, Discord botları için gelişmiş işlevler ve veri yönetimi sağlamak amacıyla geliştirilmiştir.
 
 ## 📜 Lisans
 Bu proje **GNU GPLv3** lisansı ile lisanslanmıştır. Bu, kodun açık kalmasını ve bu kodu kullanan projelerin de açık kaynaklı olmasını garanti eder.
