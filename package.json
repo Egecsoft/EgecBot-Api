@@ -1,0 +1,17 @@
+{
+  "name": "egecbot-api",
+  "version": "1.0.0",
+  "description": "egecbot-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "egecher",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
