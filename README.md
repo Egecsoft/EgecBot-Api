@@ -15,5 +15,5 @@ Projeyi yerel ortamınızda veya VDS üzerinde çalıştırmak için şu adımla
 
 1. **Repoyu klonlayın:**
    ```bash
-   git clone [https://github.com/Egecsoft/Egecbot-Api.git](https://github.com/Egecsoft/Egecbot-Api.git)
+   git clone https://github.com/Egecsoft/Egecbot-Api.git
    cd Egecbot-Api
